@@ -49,7 +49,7 @@ if nav == "Prediction":
     st.header("Know Your Salary")
     val = st.number_input("Enter your Experience",0.00,20.00,step =0.25)
     st.error("This Part Is Not Yet Completed Sorry for inconvenience ")
-    
+
 
 if nav == "Contribute":
     st.header("Contribute to our Dataset")
